@@ -12,5 +12,5 @@ Sınıf | Öğrenci İsmi  | Numara
 Proje kısaca hafif bir topun (pinpon topu) yere atıldığında normal sekerken içine su doldurulduğunda sekerken yaşadığı değişim ve bu değişimin nedenleri hakkındadır.Biz proje için ilk olarak orta seviyede suyu pinpon topuna doldurup değişimleri gözleyeceğiz.Daha sonra bu değişimlerin nelere bağlı olduğunu anlamak için suyun miktarını, sıcaklığını, yoğunluğunu vs. değiştirip karşılaştırmalı deneyler yapacağız. Daha sonrasında ise su yerine kum, oyun hamuru gibi katı maddeler koyarak sıvı hareketliliğine bağlı bir değişim olup olmadığını öğrenmeye çalışacağız. En sonunda gözlemlerimizi not ederek projemiz için rapor oluşturacağız.
 
 ## Kaynakçalar  
-1.Budianeky,B.1958. Sloshing of Liquids in Circular Canals and Spherical Tanks,0-58.
+1.Budiansky,B.1958. Sloshing of Liquids in Circular Canals and Spherical Tanks,0-58.
 
