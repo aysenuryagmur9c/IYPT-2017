@@ -5,7 +5,7 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 9-C   | Ayşenur Elkoca | 600
-9-c   | Yağmur Arslan | 589
+9-C   | Yağmur Arslan | 589
 
 #  Bouncing Balls
 ## Özet
