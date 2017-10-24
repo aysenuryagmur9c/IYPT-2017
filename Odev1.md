@@ -15,3 +15,5 @@ Proje kısaca hafif bir topun (pinpon topu) yere atıldığında normal sekerken
 1.Budiansky,B.1958. Sloshing of Liquids in Circular Canals and Spherical Tanks,0-58.
 
 2.Dodge,F.T.1968.National Aeronautics and Space Administration,0-34.
+
+3.Papaspyrou,S.2003.Refined Solutions of Externally Induced Sloshing in Half-Full Spherical Containers,0-11.
